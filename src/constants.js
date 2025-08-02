@@ -170,17 +170,17 @@ export const SkillsInfo = [
       school: "John Britto Matriculation Higher Secondary School",
       date: "Apr 2019 - March 2020",
       grade: "61%",
-      desc: "I completed my class 12 education from John Britto Matriculation Higher Secondary School under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
+      desc: "I completed my class 12 education from John Britto Matriculation Higher Secondary School under Tamil Nadu State board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
       degree: "XII-PCM with Biology",
     },
     {
       id: 2,
       img: jbmsLogo,
-      school: "Vatsalya Public School Govardhan, Mathura",
-      date: "Apr 2019 - March 2020",
-      grade: "78%",
-      desc: "I completed my class 12 education from Vatsalya Public School, Govardhan, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
-      degree: "CBSE(XII) - PCM with Computer Science",
+      school: "John Britto Matriculation Higher Secondary School",
+      date: "Apr 2017 - March 2018",
+      grade: "89%",
+      desc: " I completed my class 10 education from John Britto Matriculation Higher Secondary School under the Tamil Nadu State board, where I studied a comprehensive curriculum that included Mathematics, Science, Social Science, English, and Tamil.",
+      degree: "Xth Grade",
     }
   ];
   
